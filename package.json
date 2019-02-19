@@ -1,0 +1,38 @@
+{
+  "name": "umi",
+  "displayName": "Umi",
+  "description": "Umi is an oceanic color based Visual Studio Code theme",
+  "license": "MIT",
+  "version": "0.0.0",
+  "publisher": "TobiasTimm",
+  "preview": true,
+  "engines": {
+    "vscode": "^1.22.0"
+  },
+  "keywords": [
+    "theme",
+    "green",
+    "ocean",
+    "dark",
+    "blue"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tobiastimm/umi.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tobiastimm/umi/issues"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Umi",
+        "uiTheme": "vs-dark",
+        "path": "./themes/umi.json"
+      }
+    ]
+  }
+}
