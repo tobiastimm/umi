@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.3.1
+
+- update colors and screenshot
+
 ## 0.3.0
 
 - massive color changes
