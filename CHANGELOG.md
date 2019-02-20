@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.3.2
+
+- change some colors
+
 ## 0.3.1
 
 - update colors and screenshot

@@ -66,10 +66,13 @@
     "list.activeSelectionForeground": "#dfe1e8",
     "list.inactiveSelectionBackground": "#67769635",
     "list.inactiveSelectionForeground": "#dfe1e8",
+    "list.inactiveFocusBackground": "#67769640",
     "list.focusBackground": "#67769640",
     "list.focusForeground": "#dfe1e8",
     "list.hoverBackground": "#02112B",
     "list.hoverForeground": "#c0c5cd",
+    "list.warningForeground": "#ffedcb",
+    "list.errorForeground": "#f1888e",
     "panel.background": "#0F1E38",
     "panel.border": "#0F1E38",
     "scrollbar.shadow": "#1C2B45",
@@ -92,13 +95,13 @@
     "pickerGroup.border": "#15BDDB",
     "focusBorder": "#15BDDB",
     "progressBar.background": "#15BDDB",
-    "editorLink.activeForeground": "#95BFF2",
+    "editorLink.activeForeground": "#12D8C3",
     "peekView.border": "#314365",
     "peekViewEditor.matchHighlightBorder": "#15BDDB",
     "peekViewTitle.background": "#02112B",
     "peekViewTitleDescription.foreground": "#d4d4d4",
     "peekViewTitleLabel.foreground": "#d4d4d4",
-    "notifications.background": "#1C2B45",
+    "notifications.background": "#02112B",
     "notifications.foreground": "#d4d4d4",
     "notificationCenterHeader.foreground": "#d4d4d4",
     "extensionButton.prominentForeground": "#d4d4d4",
@@ -123,7 +126,7 @@
     "settings.modifiedItemIndicator": "#15BDDB",
     "settings.dropdownBackground": "#02112B",
     "settings.dropdownBorder": "#1C2B45",
-    "textLink.foreground": "#15BDDB",
+    "textLink.foreground": "#9DA5E8",
     "terminal.ansiBlack": "#6F7899",
     "terminal.ansiBrightBlack": "#6F7899",
     "terminal.ansiRed": "#f1888e",
@@ -452,14 +455,14 @@
     {
       "scope": ["invalid.deprecated"],
       "settings": {
-        "foreground": "#faae85",
+        "foreground": "#12D8C3",
         "background": "#52453d"
       }
     },
     {
       "scope": ["markup.error", "message.error"],
       "settings": {
-        "foreground": "#12D8C3"
+        "foreground": "#f1888e"
       }
     },
     {
@@ -513,11 +516,11 @@
     {
       "scope": ["markup.underline.link", "string.other.link"],
       "settings": {
-        "foreground": "#15BDDB"
+        "foreground": "#9DA5E8"
       }
     },
     {
-      "scope": ["string.other.link.description"],
+      "scope": ["string.other.link.title", "string.other.link.description"],
       "settings": {
         "foreground": "#15BDDB"
       }
