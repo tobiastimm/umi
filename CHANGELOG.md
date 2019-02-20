@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.3.0
+
+- massive color changes
+
 ## 0.2.0
 
 - small fixes
