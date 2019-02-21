@@ -243,7 +243,8 @@
     {
       "scope": ["variable.language"],
       "settings": {
-        "foreground": "#9DA5E8"
+        "foreground": "#12D8C3"
+        // "foreground": "#9DA5E8"
       }
     },
     {
@@ -407,7 +408,7 @@
     {
       "scope": ["support.constant"],
       "settings": {
-        "foreground": "#15BDDB"
+        "foreground": "#12D8C3"
       }
     },
     {

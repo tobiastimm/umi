@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.3.3
+
+- change color of variable.language
+
 ## 0.3.2
 
 - change some colors
