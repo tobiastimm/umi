@@ -9,9 +9,9 @@
 
 </div>
 
-[**Umi**](https://tobiastimm.github.io/umi/) is my new oceanic color based Visual Studio Code theme.
+[**Umi**](https://tobiastimm.github.io/umi/) is a oceanic color based Visual Studio Code theme.
 
-![Screenshot](screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/tobiastimm/umi/master/screenshot.png)
 
 _Icon theme: [Material Theme Icons Ocean](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme), Font: [Dank Mono](https://dank.sh)_
 

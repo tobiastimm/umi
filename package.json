@@ -1,43 +1,43 @@
 {
-	"name": "umi",
-	"displayName": "Umi",
-	"description": "Umi is an oceanic color based Visual Studio Code theme",
-	"license": "MIT",
-	"version": "0.3.3",
-	"publisher": "TobiasTimm",
-	"preview": true,
-	"engines": {
-		"vscode": "^1.22.0"
-	},
-	"keywords": [
-		"theme",
-		"green",
-		"ocean",
-		"dark",
-		"blue"
-	],
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/tobiastimm/umi.git"
-	},
-	"bugs": {
-		"url": "https://github.com/tobiastimm/umi/issues"
-	},
-	"categories": [
-		"Themes"
-	],
-	"contributes": {
-		"themes": [
-			{
-				"label": "Umi",
-				"uiTheme": "vs-dark",
-				"path": "./themes/umi.json"
-			}
-		]
-	},
-	"__metadata": {
-		"id": "9d25d01e-49da-4856-bcc2-e9807473611c",
-		"publisherDisplayName": "Tobias Timm",
-		"publisherId": "5e0244e1-b94f-4e44-8cdc-1397334a044f"
-	}
+  "name": "umi",
+  "displayName": "Umi",
+  "description": "Umi is an oceanic color based Visual Studio Code theme",
+  "license": "MIT",
+  "version": "0.3.3",
+  "publisher": "TobiasTimm",
+  "preview": false,
+  "engines": {
+    "vscode": "^1.22.0"
+  },
+  "keywords": [
+    "theme",
+    "green",
+    "ocean",
+    "dark",
+    "blue"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tobiastimm/umi.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tobiastimm/umi/issues"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Umi",
+        "uiTheme": "vs-dark",
+        "path": "./themes/umi.json"
+      }
+    ]
+  },
+  "__metadata": {
+    "id": "9d25d01e-49da-4856-bcc2-e9807473611c",
+    "publisherDisplayName": "Tobias Timm",
+    "publisherId": "5e0244e1-b94f-4e44-8cdc-1397334a044f"
+  }
 }

@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.0.0
+
+- Stable release
+
 ## 0.3.3
 
 - change color of variable.language
