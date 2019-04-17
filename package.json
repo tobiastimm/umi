@@ -32,6 +32,11 @@
         "label": "Umi",
         "uiTheme": "vs-dark",
         "path": "./themes/umi.json"
+      },
+      {
+        "label": "Shinkai",
+        "uiTheme": "vs-dark",
+        "path": "./themes/shinkai.json"
       }
     ]
   },

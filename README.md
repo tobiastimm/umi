@@ -11,7 +11,19 @@
 
 [**Umi**](https://tobiastimm.github.io/umi/) is a oceanic color based Visual Studio Code theme.
 
+## Variants
+
+**Umi** comes with 2 variants per default.
+
+### Umi
+
 ![Screenshot](https://raw.githubusercontent.com/tobiastimm/umi/master/screenshot.png)
+
+_Icon theme: [Material Theme Icons Ocean](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme), Font: [Dank Mono](https://dank.sh)_
+
+### Shinkai
+
+![Screenshot Shinkai](https://raw.githubusercontent.com/tobiastimm/umi/master/screenshot-shinkai.png)
 
 _Icon theme: [Material Theme Icons Ocean](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme), Font: [Dank Mono](https://dank.sh)_
 

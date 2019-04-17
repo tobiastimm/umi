@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.1.0
+
+- New darker `Shinkai` theme
+
 ## 1.0.0
 
 - Stable release
