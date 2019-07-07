@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.1.1
+
+- added new warning colors
+
 ## 1.1.0
 
 - New darker `Shinkai` theme

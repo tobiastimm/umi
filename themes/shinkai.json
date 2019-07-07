@@ -146,7 +146,9 @@
     "terminal.foreground": "#d4d4d4",
     "terminal.selectionBackground": "#67769640",
     "terminalCursor.foreground": "#15BDDB",
-    "terminalCursor.background": "#d6e9ff"
+    "terminalCursor.background": "#d6e9ff",
+    "editorWarning.foreground": "#ffedcb",
+    "listWarning.foreground": "#ffedcb"
   },
   "tokenColors": [
     {
