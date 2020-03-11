@@ -190,7 +190,7 @@
       }
     },
     {
-      "scope": ["string"],
+      "scope": ["string", "markup.inline.raw.string"],
       "settings": {
         "foreground": "#95BFF2"
       }
@@ -318,6 +318,12 @@
       ],
       "settings": {
         "foreground": "#ffedcb"
+      }
+    },
+    {
+      "scope": ["entity.name.variable"],
+      "settings": {
+        "foreground": "#d4d4d4"
       }
     },
     {

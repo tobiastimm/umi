@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.1.2
+
+- Fix variable scope colors
+
 ## 1.1.1
 
 - added new warning colors
